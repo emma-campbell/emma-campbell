@@ -2,3 +2,4 @@
 
 # Hello 👋
 
+My name is Emma. I am a computer science student at the University of Rochester.
