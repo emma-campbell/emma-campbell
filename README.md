@@ -2,4 +2,5 @@
 
 # Hello 👋
 
-My name is Emma. I am a computer science student at the University of Rochester.
+My name is Emma. I am a computer science student at the University of Rochester. I am always down for a good challenge, and open to experiences that teach me new content.
+
