@@ -2,11 +2,8 @@
 
 # Hello 👋
 
-My name is Emma. I am a computer science student at the University of Rochester. I am always down for a good challenge, and open to experiences that teach me new content.
+My name is Emma. I am a Software Engineer at [Hugo Health](https://hugo.health). I am always down for a good challenge, and open to experiences that teach me new content. I am currently working as a fullstack engineer, wearing multiple hats for both our frontend and backend team.
 
-Here's what I am up to:
-- 💼 Job hunt!
-- 🌱 Building my Portfolio Website
-- 🥅 Contribute to more Open-Source!
+I graduated in May 2021 from the University of Rochester with a B.A in Computer Science, with a degree focus in Human-Computer Interaction. I am super excited to be working at Hugo, and making a difference in the way we approach healthcare IT.
 
 My personal portfolio website can be found [here](https://emmacampbell.dev). 
