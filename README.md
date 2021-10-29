@@ -1,6 +1,6 @@
 <img height="250" src="https://github.com/emma-campbell/emma-campbell/blob/master/assets/banner.jpg"/>
 
-<img align="right" height="500" src="https://c.tenor.com/XwWmT_S3OtsAAAAC/flamingo-albert.gif">
+<img align="right" height="450" src="https://c.tenor.com/XwWmT_S3OtsAAAAC/flamingo-albert.gif">
 
 
 Software Engineer currently based in **Washington, D.C.**
