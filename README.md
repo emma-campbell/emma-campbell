@@ -1,3 +1,5 @@
+<img src="https://github.com/emma-campbell/emma-campbell/blob/master/assets/banner.jpg"/>
+
 <img align="right" height="400" src="https://c.tenor.com/XwWmT_S3OtsAAAAC/flamingo-albert.gif">
 
 
