@@ -1,15 +1,19 @@
-<img height="250" src="https://github.com/emma-campbell/emma-campbell/blob/master/assets/banner.jpg"/>
-
+<img height="125vh" src="https://github.com/emma-campbell/emma-campbell/blob/master/assets/banner.jpg"/>
+~w.i.p~
+<p>
+My name is Emma 👋. A product of the internet age, I am a 23 y.o. software engineer with a focus in improving the digital experience in the healthcare world, through modernizing access to personal health data and the systems which utilize it. Using and learning from your own health data <i>shouldn't be hard</i>.
+</>
+<h3><i>ask me about</i></h3>
 <img align="right" height="450" src="https://c.tenor.com/XwWmT_S3OtsAAAAC/flamingo-albert.gif">
+<p>🏠 Columbus, OH → Rochester, NY → Washington, D.C.</p>
+<p>🎓 B.A. in Computer Science from the <a href="https://www.cs.rochester.edu">University of Rochester</a>, focused in <a href="https://en.wikipedia.org/wiki/Human–computer_interaction">Human-Computer Interaction</a>.</p>
+<p>💼 Working at <a href="https://hugo.health">Hugo Health</a>, transforming healthcare IT.</p>
+<p>📕 [goodreads latest?]</p>
+<p>🎮 Animal Crossing</p>
+<p>🎲 Settlers of Catan</p>
 
 
-Software Engineer currently based in **Washington, D.C.**
-* Columbus, OH → Rochester, NY → Washington, D.C.
-* Graduated May 2021 with a B.A. in Computer Science from the <a href="https://www.cs.rochester.edu">University of Rochester</a>, focusing in <a href="https://en.wikipedia.org/wiki/Human–computer_interaction">Human-Computer Interaction</a>.
-* Currently working at <a href="https://hugo.health">Hugo Health</a>, transforming healthcare IT.
-
-
-<br>
+<h3><i>my tools</i></h3>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Amazon Web Services" src="https://img.shields.io/badge/-Amazon_Web_Services-000000?style=flat-square&logo=amazon-aws&logoColor=white" />
