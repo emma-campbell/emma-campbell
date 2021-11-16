@@ -38,4 +38,4 @@ My name is Emma 👋. A product of the internet age, I am a 23 y.o. software eng
 
 <h3><i>i'm listening to...</i></h3>
 
-[![Spotify](https://spotify-readme-egpf0setk-emma-campbell.vercel.app/api?scan=true&rainbow=true)](https://open.spotify.com/user/1252959935?si=e50fb26c23fc49ec)
+[![Spotify](https://spotify-readme-egpf0setk-emma-campbell.vercel.app/api?scan=true&rainbow=true&theme=dark)](https://open.spotify.com/user/1252959935?si=e50fb26c23fc49ec)
