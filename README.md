@@ -8,7 +8,7 @@ My name is Emma 👋. A product of the internet age, I am a 23 y.o. software eng
 <p>🎓 B.A. in Computer Science from the <a href="https://www.cs.rochester.edu">University of Rochester</a>, focused in <a href="https://en.wikipedia.org/wiki/Human–computer_interaction">Human-Computer Interaction</a>.</p>
 <p>💼 Working at <a href="https://hugo.health">Hugo Health</a>, transforming healthcare IT.</p>
 <p>📕 [goodreads latest?]</p>
-<p>🎮 Animal Crossing</p>
+<p>🎮 Animal Crossing, Mario Kart</p>
 <p>🎲 Settlers of Catan</p>
 
 
