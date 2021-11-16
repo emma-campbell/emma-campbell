@@ -34,3 +34,5 @@ My name is Emma 👋. A product of the internet age, I am a 23 y.o. software eng
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-000000?style=flat-square&logo=Node.js&logoColor=ffffff" />
 </p>
+
+[![Spotify](https://spotify-readme-egpf0setk-emma-campbell.vercel.app/api/spotify)](https://open.spotify.com/user/1252959935?si=e50fb26c23fc49ec)
