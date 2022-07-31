@@ -1,4 +1,4 @@
-<img max-width="100%" src="https://github.com/emma-campbell/emma-campbell/blob/master/assets/header.svg"/>
+<img max-width="100%" src="https://github.com/emma-campbell/emma-campbell/blob/master/assets/header.png"/>
 <p>
 My name is Emma 👋. A product of the internet age, I am a 23 y.o. software engineer with a focus in improving the digital experience in the healthcare world, through modernizing access to personal health data and the systems which utilize it. Using and learning from your own health data <i>shouldn't be hard</i>.
 </>
