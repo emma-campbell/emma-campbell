@@ -1,16 +1,10 @@
-<img max-width="100%" src="https://github.com/emma-campbell/emma-campbell/blob/master/assets/header.png"/>
-<p>
 My name is Emma 👋. A product of the internet age, I am a 23 y.o. software engineer with a focus in improving the digital experience in the healthcare world, through modernizing access to personal health data and the systems which utilize it. Using and learning from your own health data <i>shouldn't be hard</i>.
-</>
+
 <h3><i>ask me about</i></h3>
 <img align="right" height="450" src="https://c.tenor.com/XwWmT_S3OtsAAAAC/flamingo-albert.gif">
 <p>🏠 Columbus, OH → Rochester, NY → Arlington, VA</p>
 <p>🎓 B.A. in Computer Science from the <a href="https://www.cs.rochester.edu">University of Rochester</a>, focused in <a href="https://en.wikipedia.org/wiki/Human–computer_interaction">Human-Computer Interaction</a>.</p>
-<p>💼 Working at <a href="https://hugo.health">Hugo Health</a>, transforming healthcare IT.</p>
-<p>📕 [goodreads latest?]</p>
-<p>🎮 Animal Crossing, Mario Kart</p>
-<p>🎲 Settlers of Catan</p>
-
+<p>💼 Working at <a href="https://hugo.health">Hugo Health</a></p>
 
 <h3><i>my tools</i></h3>
 <p>
@@ -33,8 +27,3 @@ My name is Emma 👋. A product of the internet age, I am a 23 y.o. software eng
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-000000?style=flat-square&logo=Node.js&logoColor=ffffff" />
 </p>
-
-
-<h3><i>i'm listening to...</i></h3>
-
-[![Spotify](https://spotify-readme-egpf0setk-emma-campbell.vercel.app/api?scan=true&theme=dark&rainbow=true)](https://open.spotify.com/user/1252959935?si=e50fb26c23fc49ec)
