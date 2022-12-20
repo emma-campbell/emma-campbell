@@ -1,7 +1,10 @@
-My name is Emma 👋. A product of the internet age, I am a 23 y.o. software engineer with a focus in improving the digital experience in the healthcare world, through modernizing access to personal health data and the systems which utilize it. Using and learning from your own health data <i>shouldn't be hard</i>.
+![welcome, nerds](./assets/banner.jpg)
+
+<img align="right" height="300" src="https://media.tenor.com/Q6z2wfQ49UIAAAAC/thumbs-up-reagan-ridley.gif">
+
+Hey! My name is Emma 👋🏼. I am a young software engineer passionate about building tools that affect people for the better. I currently work at [Hugo Health](https://hugo.health) building technology that helps people better access their medical data, and improve the data collection process that drives innovative research.
 
 <h3><i>ask me about</i></h3>
-<img align="right" height="450" src="https://c.tenor.com/XwWmT_S3OtsAAAAC/flamingo-albert.gif">
 <p>🏠 Columbus, OH → Rochester, NY → Arlington, VA</p>
 <p>🎓 B.A. in Computer Science from the <a href="https://www.cs.rochester.edu">University of Rochester</a>, focused in <a href="https://en.wikipedia.org/wiki/Human–computer_interaction">Human-Computer Interaction</a>.</p>
 <p>💼 Working at <a href="https://hugo.health">Hugo Health</a></p>
