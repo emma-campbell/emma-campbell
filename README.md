@@ -1,6 +1,8 @@
 ![welcome, nerds](./assets/banner.jpg)
 
-<img align="right" height="300" width="auto" src="https://media.tenor.com/Q6z2wfQ49UIAAAAC/thumbs-up-reagan-ridley.gif">
+<div align="center">
+<img height="300" width="auto" src="https://media.tenor.com/Q6z2wfQ49UIAAAAC/thumbs-up-reagan-ridley.gif">
+</div>
 
 Hey! My name is Emma 👋🏼. I am a young software engineer passionate about building tools that affect people for the better. I currently work at [Hugo Health](https://hugo.health) building technology that helps people better access their medical data, and improve the data collection process that drives innovative research.
 
