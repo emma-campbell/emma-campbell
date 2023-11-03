@@ -8,7 +8,7 @@ Hey! My name is Emma 👋🏼. I am a young software engineer passionate about b
 
 <h3><i>ask me about</i></h3>
 <p>🏠 Columbus, OH → Rochester, NY → Arlington, VA</p>
-<p>🎓 B.A. in Computer Science from the <a href="https://www.cs.rochester.edu">University of Rochester</a>, focused in <a href="https://en.wikipedia.org/wiki/Human–computer_interaction">Human-Computer Interaction</a>.</p>
+<p>🎓 Bachelors in Computer Science from the <a href="https://www.cs.rochester.edu">University of Rochester</a>, focused in <a href="https://en.wikipedia.org/wiki/Human–computer_interaction">Human-Computer Interaction</a>.</p>
 <p>💼 Working at <a href="https://hugo.health">Hugo Health</a></p>
 
 <h3><i>my tools</i></h3>
